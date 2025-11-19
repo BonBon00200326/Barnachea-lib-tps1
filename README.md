@@ -88,12 +88,14 @@ Returned Books: 4
 
 
 Delete Borrowing Records
+
 <img width="564" height="188" alt="image" src="https://github.com/user-attachments/assets/2f1f981f-1723-43a2-8e05-6ce758c83be0" />
 <img width="1639" height="772" alt="image" src="https://github.com/user-attachments/assets/e432704c-3e9f-4587-b27a-c22605de739b" />
 
 
 Remove borrowing history entries
 Clean up completed transactions
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/e11df0c1-5e5b-4626-85c6-39a2b11d74d4" />
 
 
 
