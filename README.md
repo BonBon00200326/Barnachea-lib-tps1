@@ -40,7 +40,8 @@ Navigate to Books Page
 
 Click "Books" in the main navigation menu
 You'll see the Books Management dashboard
-<img width="1919" height="911" alt="Screenshot 2025-11-19 085007" src="https://github.com/user-attachments/assets/2491d57c-a360-47d8-bdd5-6b1bcdda10a3" />
+
+<img width="1919" height="911" alt="Screenshot 2025-11-19 085007" src="https://github.com/user-attachments/assets/25f60bd2-e6de-4132-a651-4e92ec975cfb" />
 
 
 Open Add Book Form
