@@ -862,19 +862,3 @@ Jhon Bon Barnachea
  **Email: barnacheajhonbon00@gmail.com**
  **GitHub: @BonBon00200326**
 
-Contributions:
-
-✅ Designed and implemented complete database schema
-✅ Developed Books Management Module (CRUD operations)
-✅ Created Borrowings Management Module with workflow automation
-✅ Implemented form validation (client-side and server-side)
-✅ Designed responsive UI with gradient purple-to-blue theme
-✅ Set up Laravel project structure and routing
-✅ Wrote database migrations and seeders
-✅ Implemented Eloquent models with relationships
-✅ Created Blade templates and layouts
-✅ Integrated dashboard analytics and statistics
-✅ Performed testing and bug fixes
-✅ Wrote comprehensive documentation
-
-
